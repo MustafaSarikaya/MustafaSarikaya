@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MustafaSarikaya
 
-- 👀 I’m interested in Web development, and Flutter development for Web and Cross Platform Mobile apps.
+- 👀 I’m interested in distributed backend systems and cybersecurity.
 
-- 🌱 I’m currently developing and maintaining code for Ventus, a web-based application for Student Academic Success Services through API, Database and UI/UX design. Using Php with RESTful APIs and MySQL.
+- 🌱 I’m currently working on developing web apps and cybersecurity tools for projects and hackathons.
 
-- 💞️ I’m looking to collaborate on Web/Mobile application projects.
+- 💞️ I’m looking to collaborate on backend/cybersecurity projects.
 
 - 📫 How to reach me  => www.linkedin.com/in/mustafa-sarikaya
 
